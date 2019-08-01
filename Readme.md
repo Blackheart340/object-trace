@@ -5,7 +5,7 @@ For example, you know the property name but don't know where it's placed. `objec
 
 ## Usage:
 ```js
-import tract from 'object-trace';
+import trace from 'object-trace';
 
 const testObject = {
     a: 1,
