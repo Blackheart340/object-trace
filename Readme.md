@@ -1,7 +1,7 @@
 # Object-trace
 
-`object-trace` helps you to find way to your property deep inside your nested object.
-For example, you know the property name but don't know where it's placed. `object-tracer` going to find it for you.
+`object-trace` helps you to find a way to your property deep inside your nested object.
+For example, you know the property name but don't know where it's placed. `object-tracer` is going to find it for you.
 
 ## Usage:
 ```js
